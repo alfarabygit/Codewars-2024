@@ -15,4 +15,4 @@ function grow(x) {
 }
 
 //one line function
-const grow = (x) => x.reduce((acc, curr) => acc * curr, 1);
+// const grow = (x) => x.reduce((acc, curr) => acc * curr, 1);
